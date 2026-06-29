@@ -1,0 +1,1647 @@
+canonical_identifier: bkk:krp/KR3eo034/v1
+canonical_location: https://kanripo.org/bkk/KR3eo034/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 養生導引秘籍
+  identifiers:
+    krp: KR3eo034
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo034.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo034_000.yaml, hash: 'sha256:7d63608ac8800bbf809e6104717e12b01981a402143ecd8e8678746a24c4f6d4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo034_000.markers.yaml, hash: 'sha256:5fdb42c9128b3ffd4be44f5cdb63b7a41b45ef38eb05f2cb4cbbf906e3c905b9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 10304
+  label: 養性延命錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d2d2
+    span:
+    - body
+    - 5
+    - 3556
+  label: 教誡篇第一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d2d3
+    span:
+    - body
+    - 3556
+    - 4571
+  label: 食誡篇第二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d2d4
+    span:
+    - body
+    - 4571
+    - 6104
+  label: 雜誡忌禳害祈善篇第三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d2d5
+    span:
+    - body
+    - 6104
+    - 7190
+  label: 服氣療病篇第四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d2d6
+    span:
+    - body
+    - 7190
+    - 8588
+  label: 導引按摩篇第五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d2d7
+    span:
+    - body
+    - 8588
+    - 10304
+  label: 御女損益篇第六
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3.h1s1
+    span:
+    - body
+    - 10304
+    - 28579
+  label: 西山群仙會真記
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d2
+    span:
+    - body
+    - 10311
+    - 10666
+  label: 序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d3
+    span:
+    - body
+    - 10666
+    - 10979
+  label: 識道
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d4
+    span:
+    - body
+    - 10979
+    - 11948
+  label: 識法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d5
+    span:
+    - body
+    - 11948
+    - 12703
+  label: 識人
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d6
+    span:
+    - body
+    - 12703
+    - 13706
+  label: 識時
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d7
+    span:
+    - body
+    - 13706
+    - 14741
+  label: 識物
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d8
+    span:
+    - body
+    - 14741
+    - 15491
+  label: 養生
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d9
+    span:
+    - body
+    - 15491
+    - 16114
+  label: 養形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d10
+    span:
+    - body
+    - 16114
+    - 16826
+  label: 養氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d11
+    span:
+    - body
+    - 16826
+    - 17455
+  label: 養心
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d12
+    span:
+    - body
+    - 17455
+    - 18182
+  label: 養壽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d13
+    span:
+    - body
+    - 18182
+    - 19341
+  label: 補內
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d14
+    span:
+    - body
+    - 19341
+    - 19535
+  label: 補氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d15
+    span:
+    - body
+    - 19535
+    - 20026
+  label: 補精
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d16
+    span:
+    - body
+    - 20026
+    - 20805
+  label: 補益
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d17
+    span:
+    - body
+    - 20805
+    - 21566
+  label: 補損
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d18
+    span:
+    - body
+    - 21566
+    - 22417
+  label: 真水火
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d19
+    span:
+    - body
+    - 22417
+    - 23171
+  label: 真龍虎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d20
+    span:
+    - body
+    - 23171
+    - 23651
+  label: 真丹藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d21
+    span:
+    - body
+    - 23651
+    - 24165
+  label: 真鉛汞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d22
+    span:
+    - body
+    - 24165
+    - 25000
+  label: 真陰陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d23
+    span:
+    - body
+    - 25000
+    - 25642
+  label: 煉法入道
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d24
+    span:
+    - body
+    - 25642
+    - 26587
+  label: 煉形化氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d25
+    span:
+    - body
+    - 26587
+    - 27439
+  label: 煉氣成神
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d26
+    span:
+    - body
+    - 27439
+    - 28081
+  label: 煉神合道
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d3d27
+    span:
+    - body
+    - 28081
+    - 28579
+  label: 煉道入聖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d4.h1s1
+    span:
+    - body
+    - 28579
+    - 31471
+  label: 保生要錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d4d2
+    span:
+    - body
+    - 28583
+    - 28798
+  label: 序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d4d3
+    span:
+    - body
+    - 28798
+    - 28865
+  label: 養神氣門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d4d4
+    span:
+    - body
+    - 28865
+    - 29254
+  label: 調肢體門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d4d5
+    span:
+    - body
+    - 29254
+    - 29440
+  label: 論衣服門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d4d6
+    span:
+    - body
+    - 29440
+    - 29811
+  label: 論飲食門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d4d7
+    span:
+    - body
+    - 29811
+    - 30225
+  label: 論居處門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d4.d7d4
+    span:
+    - body
+    - 30013
+    - 30225
+  label: 藥枕方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d4d8
+    span:
+    - body
+    - 30225
+    - 31471
+  label: 論藥食門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d4.d8d28
+    span:
+    - body
+    - 30908
+    - 31471
+  label: 榴梨漿
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d5.h1s1
+    span:
+    - body
+    - 31471
+    - 34315
+  label: 修真秘錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d5d2
+    span:
+    - body
+    - 31475
+    - 33961
+  label: 食宜篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d5d3
+    span:
+    - body
+    - 33961
+    - 34315
+  label: 月宜篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d6.h1s1
+    span:
+    - body
+    - 34315
+    - 40085
+  label: 修齡要指
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d6d2
+    span:
+    - body
+    - 34319
+    - 35599
+  label: 四時調攝
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d6d3
+    span:
+    - body
+    - 35599
+    - 35995
+  label: 起居調攝
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d6d4
+    span:
+    - body
+    - 35995
+    - 36279
+  label: 延年六字訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d6d5
+    span:
+    - body
+    - 36279
+    - 36340
+  label: 四季卻病歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d6d6
+    span:
+    - body
+    - 36340
+    - 36811
+  label: 長生一十六字妙訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d6d7
+    span:
+    - body
+    - 36811
+    - 37409
+  label: 十六段錦
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d6d8
+    span:
+    - body
+    - 37409
+    - 37982
+  label: 八段錦導引法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d6d9
+    span:
+    - body
+    - 37982
+    - 39653
+  label: 導引卻病歌訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d6d10
+    span:
+    - body
+    - 39653
+    - 40085
+  label: 卻病八則
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d7.h1s1
+    span:
+    - body
+    - 40085
+    - 45503
+  label: 太清導引養生經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d7d2
+    span:
+    - body
+    - 40092
+    - 43796
+  label: 慎修內法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d7d3
+    span:
+    - body
+    - 43796
+    - 43832
+  label: 王喬導引圖一在彭祖中
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d7d4
+    span:
+    - body
+    - 43832
+    - 43880
+  label: 彭祖導引圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d7d5
+    span:
+    - body
+    - 43880
+    - 43994
+  label: 淘氣訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d7d6
+    span:
+    - body
+    - 43994
+    - 45503
+  label: 嚥氣訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d8.h1s1
+    span:
+    - body
+    - 45503
+    - 46146
+  label: 二六功課
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9.h1s1
+    span:
+    - body
+    - 46146
+    - 49718
+  label: 靈劍子引導子午記
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d2
+    span:
+    - body
+    - 46154
+    - 46213
+  label: 夜半子
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d3
+    span:
+    - body
+    - 46213
+    - 46322
+  label: 鼓腹淘氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d4
+    span:
+    - body
+    - 46322
+    - 46383
+  label: 取氣太衝
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d5
+    span:
+    - body
+    - 46383
+    - 46542
+  label: 挽如引弓
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d6
+    span:
+    - body
+    - 46542
+    - 46594
+  label: 氣息平定內視神宮
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d7
+    span:
+    - body
+    - 46594
+    - 46633
+  label: 叩齒及牙
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d8
+    span:
+    - body
+    - 46633
+    - 46703
+  label: 捏目四眥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d9
+    span:
+    - body
+    - 46703
+    - 46729
+  label: 摩手熨目
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d10
+    span:
+    - body
+    - 46729
+    - 46883
+  label: 對修常居
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d11
+    span:
+    - body
+    - 46883
+    - 46915
+  label: 灌溉中嶽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d12
+    span:
+    - body
+    - 46915
+    - 47185
+  label: 俯按山源
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d13
+    span:
+    - body
+    - 47185
+    - 47218
+  label: 營治城廓
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d14
+    span:
+    - body
+    - 47218
+    - 47280
+  label: 擊探天鼓
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d15
+    span:
+    - body
+    - 47280
+    - 47373
+  label: 拭摩神庭
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d16
+    span:
+    - body
+    - 47373
+    - 47452
+  label: 上朝三元
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d17
+    span:
+    - body
+    - 47452
+    - 47486
+  label: 下摩生門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d18
+    span:
+    - body
+    - 47486
+    - 47581
+  label: 山巔取水
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d19
+    span:
+    - body
+    - 47581
+    - 47756
+  label: 海底覓火
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d20
+    span:
+    - body
+    - 47756
+    - 47925
+  label: 養虎嚥氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d21
+    span:
+    - body
+    - 47925
+    - 48142
+  label: 偷龍咽津
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d22
+    span:
+    - body
+    - 48142
+    - 48359
+  label: 離卦用九坎卦用六
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d23
+    span:
+    - body
+    - 48359
+    - 48470
+  label: 日南午
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d24
+    span:
+    - body
+    - 48470
+    - 48602
+  label: 調息
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d25
+    span:
+    - body
+    - 48602
+    - 48698
+  label: 心無外緣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d26
+    span:
+    - body
+    - 48698
+    - 48926
+  label: 以神馭氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d27
+    span:
+    - body
+    - 48926
+    - 49165
+  label: 閉神廬以定火候
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d28
+    span:
+    - body
+    - 49165
+    - 49311
+  label: 開生門而復嬰兒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d29
+    span:
+    - body
+    - 49311
+    - 49516
+  label: 聖胎內結
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d9d30
+    span:
+    - body
+    - 49516
+    - 49718
+  label: 導引訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10.h1s1
+    span:
+    - body
+    - 49718
+    - 55621
+  label: 養生導引法全
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d2
+    span:
+    - body
+    - 49724
+    - 50384
+  label: 中風門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d3
+    span:
+    - body
+    - 50384
+    - 50755
+  label: 風痹門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d4
+    span:
+    - body
+    - 50755
+    - 50858
+  label: 心腹痛門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d5
+    span:
+    - body
+    - 50858
+    - 50931
+  label: 霍亂門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d6
+    span:
+    - body
+    - 50931
+    - 51066
+  label: 嘔吐門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d7
+    span:
+    - body
+    - 51066
+    - 51161
+  label: 氣門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d8
+    span:
+    - body
+    - 51161
+    - 51211
+  label: 痰飲門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d9
+    span:
+    - body
+    - 51211
+    - 51311
+  label: 癆瘵門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d10
+    span:
+    - body
+    - 51311
+    - 51404
+  label: 脅痛門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d11
+    span:
+    - body
+    - 51404
+    - 51540
+  label: 腰痛門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d12
+    span:
+    - body
+    - 51540
+    - 51826
+  label: 腳氣門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d13
+    span:
+    - body
+    - 51826
+    - 52088
+  label: 積聚門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d14
+    span:
+    - body
+    - 52088
+    - 52175
+  label: 脾胃門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d15
+    span:
+    - body
+    - 52175
+    - 52629
+  label: 補益門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d16
+    span:
+    - body
+    - 52629
+    - 52856
+  label: 消渴門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d17
+    span:
+    - body
+    - 52856
+    - 53229
+  label: 脹滿門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d18
+    span:
+    - body
+    - 53229
+    - 53740
+  label: 眼目門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d19
+    span:
+    - body
+    - 53740
+    - 53843
+  label: 喉舌門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d20
+    span:
+    - body
+    - 53843
+    - 54037
+  label: 口齒門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d21
+    span:
+    - body
+    - 54037
+    - 54177
+  label: 鼻門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d22
+    span:
+    - body
+    - 54177
+    - 54250
+  label: 耳門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d23
+    span:
+    - body
+    - 54250
+    - 54366
+  label: 遺泄門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d24
+    span:
+    - body
+    - 54366
+    - 54519
+  label: 淋門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d25
+    span:
+    - body
+    - 54519
+    - 54645
+  label: 二便不通門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d26
+    span:
+    - body
+    - 54645
+    - 54717
+  label: 疝氣門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d27
+    span:
+    - body
+    - 54717
+    - 54881
+  label: 諸痔門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d10d28
+    span:
+    - body
+    - 54881
+    - 55621
+  label: 老人門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d11.h1s1
+    span:
+    - body
+    - 55621
+    - 65461
+  label: 養生秘錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d11d2
+    span:
+    - body
+    - 55625
+    - 55942
+  label: 玉溪子丹房語錄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d11d3
+    span:
+    - body
+    - 55942
+    - 56823
+  label: 玉溪子宜春心訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d11d4
+    span:
+    - body
+    - 56823
+    - 57963
+  label: 中黃內旨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d11d5
+    span:
+    - body
+    - 57963
+    - 61177
+  label: 四段錦
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d11d6
+    span:
+    - body
+    - 61177
+    - 61571
+  label: 大道歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d11d7
+    span:
+    - body
+    - 61571
+    - 65461
+  label: 金丹問答
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12.h1s1
+    span:
+    - body
+    - 65461
+    - 71625
+  label: 養生詠玄集
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d2
+    span:
+    - body
+    - 65466
+    - 65677
+  label: 序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d3
+    span:
+    - body
+    - 65677
+    - 65893
+  label: 榮衛氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d4
+    span:
+    - body
+    - 65893
+    - 66028
+  label: 榮氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d5
+    span:
+    - body
+    - 66028
+    - 66304
+  label: 衛氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d6
+    span:
+    - body
+    - 66304
+    - 66566
+  label: 魂魄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d7
+    span:
+    - body
+    - 66566
+    - 66719
+  label: 魂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d8
+    span:
+    - body
+    - 66719
+    - 66836
+  label: 魄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d9
+    span:
+    - body
+    - 66836
+    - 66977
+  label: 穀神
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d10
+    span:
+    - body
+    - 66977
+    - 67078
+  label: 谷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d11
+    span:
+    - body
+    - 67078
+    - 67286
+  label: 神
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d12
+    span:
+    - body
+    - 67286
+    - 67490
+  label: 返本還元
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d13
+    span:
+    - body
+    - 67490
+    - 67733
+  label: 神與氣合
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d14
+    span:
+    - body
+    - 67733
+    - 67898
+  label: 抱一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d15
+    span:
+    - body
+    - 67898
+    - 68220
+  label: 胎息
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d16
+    span:
+    - body
+    - 68220
+    - 68428
+  label: 自然
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d17
+    span:
+    - body
+    - 68428
+    - 68643
+  label: 龍虎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d18
+    span:
+    - body
+    - 68643
+    - 68876
+  label: 煉陽銷陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d19
+    span:
+    - body
+    - 68876
+    - 69076
+  label: 上丹田
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d20
+    span:
+    - body
+    - 69076
+    - 69200
+  label: 中丹田
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d21
+    span:
+    - body
+    - 69200
+    - 69467
+  label: 下丹田
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d22
+    span:
+    - body
+    - 69467
+    - 69684
+  label: 重玄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d23
+    span:
+    - body
+    - 69684
+    - 70056
+  label: 陰丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d24
+    span:
+    - body
+    - 70056
+    - 70254
+  label: 玄關
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d25
+    span:
+    - body
+    - 70254
+    - 70394
+  label: 玄珠
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d26
+    span:
+    - body
+    - 70394
+    - 70546
+  label: 玄牝門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d27
+    span:
+    - body
+    - 70546
+    - 70696
+  label: 玄門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d28
+    span:
+    - body
+    - 70696
+    - 70830
+  label: 牝門
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d29
+    span:
+    - body
+    - 70830
+    - 70976
+  label: 絕利一源
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d30
+    span:
+    - body
+    - 70976
+    - 71085
+  label: 心
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d31
+    span:
+    - body
+    - 71085
+    - 71375
+  label: 性
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d12d32
+    span:
+    - body
+    - 71375
+    - 71625
+  label: 法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo034_jc_000-d13.h1s1
+    span:
+    - body
+    - 71625
+    - 77113
+  label: 養生膚語
+  type: section
+  level: 1
+hash: sha256:1c5eca0cb7157d4bbcb532225e809e2c474f7357f2b29e11049b7067e90d7464
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
