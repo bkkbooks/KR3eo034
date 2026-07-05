@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo034_000.yaml, hash: 'sha256:7d63608ac8800bbf809e6104717e12b01981a402143ecd8e8678746a24c4f6d4'}
+  - {seq: 0, filename: KR3eo034_000.yaml, hash: 'sha256:88b2613de0bb04fca76370c0de0b1fcfb41abd48746d72f9853d0aa33d9f63db'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo034_000.markers.yaml, hash: 'sha256:5fdb42c9128b3ffd4be44f5cdb63b7a41b45ef38eb05f2cb4cbbf906e3c905b9'}
+  - {seq: 0, role: markers, filename: assets/KR3eo034_000.markers.yaml, hash: 'sha256:ca3ab6b79355266c5cd96ab08b4a50c8d8401af944911ca6f1ea63c998455310'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1641,7 +1641,4 @@ table_of_contents:
   label: 養生膚語
   type: section
   level: 1
-hash: sha256:1c5eca0cb7157d4bbcb532225e809e2c474f7357f2b29e11049b7067e90d7464
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2610a759b0b37df3d11335e5f5c0b8a45b77c956cf410dceaaca3cbb1bd49326
