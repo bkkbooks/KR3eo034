@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eo034/v1
 canonical_location: https://kanripo.org/bkk/KR3eo034/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 養生導引秘籍
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo034_000.yaml, hash: 'sha256:88b2613de0bb04fca76370c0de0b1fcfb41abd48746d72f9853d0aa33d9f63db'}
+  - {seq: 0, filename: KR3eo034_000.yaml, hash: 'sha256:b92912c744ea77bdcd8b0d9209e135fa0fc5c7116dfd16a118ffa5bbf3fcc5ff'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo034_000.markers.yaml, hash: 'sha256:ca3ab6b79355266c5cd96ab08b4a50c8d8401af944911ca6f1ea63c998455310'}
+  - {seq: 0, role: markers, filename: assets/KR3eo034_000.markers.yaml, hash: 'sha256:e4ad3975bbe8803690ec435a80990763e3d0f026d4abc64addcc7e8eaa554010'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1641,4 +1641,7 @@ table_of_contents:
   label: 養生膚語
   type: section
   level: 1
-hash: sha256:2610a759b0b37df3d11335e5f5c0b8a45b77c956cf410dceaaca3cbb1bd49326
+hash: sha256:51e17dd247761cfa1fb7e0db5dc014142dd9fd1e4a50d0157375b336db43afc1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
